@@ -1,1 +1,1 @@
-# Satihan-coding
+# Pseudocode Program Penghasilan Karyawan
